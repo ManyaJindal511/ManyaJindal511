@@ -1,42 +1,43 @@
 <h1 align="center">Hi 👋, I'm Manya Jindal</h1>
-<h3 align="center">🚀 AI & Full Stack Developer | Passionate about Intelligent Systems and Scalable Web Apps</h3>
+<h3 align="center">Full Stack Web Developer & AI Enthusiast | Turning Ideas into Impactful Solutions</h3>
 
 ---
 
 ### 💫 About Me
 - 🎓 B.E. in Computer Science (AI Specialization) @ Chitkara University (CGPA: 9.31)  
 - 💻 Solved 300+ problems on LeetCode, HackerRank, and GeeksforGeeks  
-- 🌱 Currently exploring **AI-powered web applications** and **model deployment**  
-- ⚡ Passionate about **Data Structures & Algorithms**, **Deep Learning**, and **End-to-End Product Development**
+- 🌱 Exploring how **AI can enhance web experiences** through smart automation and predictive systems  
+- ⚡ Driven by a passion for **problem-solving**, **deep learning**, and **building impactful solutions**
+
 
 ---
 
 ### 🧠 Tech Stack
 **Languages:** Python | Java | C++ | JavaScript  
-**Frontend:** React.js | HTML | CSS | Bootstrap | Chart.js  
+**Frontend:** React.js | HTML | CSS | Bootstrap
 **Backend:** Node.js | Express.js | MongoDB  
 **AI/ML:** TensorFlow | OpenCV | Scikit-learn | NumPy | Pandas  
-**Tools & Platforms:** Git | VS Code | Postman | Figma | Render | Vercel  
+**Tools & Platforms:** Git | VS Code | Postman | Render | Vercel  
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🏡 [StayEase](https://github.com/ManyaJindal511/StayEase)
-A **MERN Stack** web application for listing and booking stays with interactive maps.  
-- Integrated **MapTiler + Leaflet** for location-based visualization  
+A **Full Stack** rental listing platform.  
+- Integrated **Leaflet** for location-based visualization  
 - Implemented **CRUD operations** for listings and authentication  
 - Designed responsive UI with **Bootstrap 5**  
-🛠️ *Tech:* Node.js, Express, MongoDB, EJS, MapTiler, Bootstrap  
+🛠️ *Tech:* Node.js, Express, MongoDB, EJS, HTML, CSS, JavaScript, Bootstrap  
 
 ---
 
 #### 🧩 [AlgoViz](https://github.com/ManyaJindal511/AlgoViz)
-An **interactive DSA Visualizer** to help users understand sorting and graph algorithms visually.  
-- Visualized **Bubble, Quick, Merge, and Heap Sort**  
+An **interactive DSA Visualizer** to help users understand searching, sorting and graph traversal algorithms visually.  
+- Visualized **Bubble, Quick, Merge, and Heap Sort**
+- Implemented **linear and binary search** and **graph traversals (BFS & DFS)**
 - Added **dynamic speed control** and **real-time comparisons**  
-- Built with **pure JavaScript + animations** for better learning  
-🛠️ *Tech:* HTML, CSS, JavaScript, DOM Manipulation  
+🛠️ *Tech:* React.js, HTML, CSS, JavaScript  
 
 ---
 
@@ -59,15 +60,15 @@ An **AI-powered waste classification system** using Deep Learning.
 
 ### 🏅 Achievements
 - 🥇 **LeetCode 100 Days Coding Badge**
-- ⭐ **4-Star Java Coder** on HackerRank
+- ⭐ **4-Star rating in Java and SQL** on HackerRank
 - 🧠 Completed 300+ DSA problems across platforms
 
 ---
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/manya-jindal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:manya.jindal@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/manyajindal05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:jindalmanya511@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/ManyaJindal511"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
