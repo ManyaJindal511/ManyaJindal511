@@ -25,8 +25,8 @@
 
 #### 🏡 [StayEase](https://github.com/ManyaJindal511/StayEase)
 A **Full Stack** rental listing platform.  
+- Implemented **CRUD operations** for listings and authentication
 - Integrated **Leaflet** for location-based visualization  
-- Implemented **CRUD operations** for listings and authentication  
 - Designed responsive UI with **Bootstrap 5**  
 🛠️ *Tech:* Node.js, Express, MongoDB, EJS, HTML, CSS, JavaScript, Bootstrap  
 
@@ -34,7 +34,7 @@ A **Full Stack** rental listing platform.
 
 #### 🧩 [AlgoViz](https://github.com/ManyaJindal511/AlgoViz)
 An **interactive DSA Visualizer** to help users understand searching, sorting and graph traversal algorithms visually.  
-- Visualized **Bubble, Quick, Merge, and Heap Sort**
+- Visualized **Bubble, Quick, Merge, and Selection Sort**
 - Implemented **linear and binary search** and **graph traversals (BFS & DFS)**
 - Added **dynamic speed control** and **real-time comparisons**  
 🛠️ *Tech:* React.js, HTML, CSS, JavaScript  
