@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 B.E. in Computer Science (AI Specialization) @ Chitkara University (CGPA: 9.31)  
+- 🎓 B.E. in Computer Science (AI Specialization) at Chitkara University (CGPA: 9.31)  
 - 💻 Solved 300+ problems on LeetCode, HackerRank, and GeeksforGeeks  
 - 🌱 Exploring how **AI can enhance web experiences** through smart automation and predictive systems  
 - ⚡ Driven by a passion for **problem-solving**, **deep learning**, and **building impactful solutions**
