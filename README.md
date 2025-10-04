@@ -44,7 +44,7 @@ An **interactive DSA Visualizer** to help users understand searching, sorting an
 #### 🌍 [EcoSort](https://github.com/ManyaJindal511/EcoSort)
 An **AI-powered waste classification system** using Deep Learning.  
 - Built a **MobileNetV2 model** with custom data augmentation  
-- Classified 6 types of waste materials with high accuracy  
+- Classified 6 types of waste materials with **~94%** validation accuracy  
 - Integrated **Bootstrap 5 frontend** with responsive layout  
 🛠️ *Tech:* TensorFlow, Keras, OpenCV, Flask, Bootstrap  
 
