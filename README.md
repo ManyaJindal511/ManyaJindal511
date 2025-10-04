@@ -14,7 +14,7 @@
 
 ### 🧠 Tech Stack
 **Languages:** Python | Java | C++ | JavaScript  
-**Frontend:** React.js | HTML | CSS | Bootstrap
+**Frontend:** React.js | HTML | CSS | Bootstrap  
 **Backend:** Node.js | Express.js | MongoDB  
 **AI/ML:** TensorFlow | OpenCV | Scikit-learn | NumPy | Pandas  
 **Tools & Platforms:** Git | VS Code | Postman | Render | Vercel  
