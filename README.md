@@ -8,6 +8,7 @@
 - 💻 Solved 300+ problems on LeetCode, HackerRank, and GeeksforGeeks  
 - 🌱 Exploring how **AI can enhance web experiences** through smart automation and predictive systems  
 - ⚡ Driven by a passion for **problem-solving**, **deep learning**, and **building impactful solutions**
+- Email: **[jindalmanya511@gmail.com](mailto:jindalmanya511@gmail.com)**  
 
 
 ---
